@@ -73,7 +73,7 @@ button{
         display: flex;
         flex-direction: column;
         gap: 30px;
-        margin: -270px 0px 0px -30px;
+        margin: -330px 0px 0px 12%;
     }
     .mockups{
         min-height: 150px;

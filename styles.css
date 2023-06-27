@@ -59,7 +59,7 @@ button{
     display: none;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 500px) {
     .mobilesvg{
         display: block;
         margin-left: -8px;
